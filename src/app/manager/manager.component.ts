@@ -37,7 +37,7 @@ export class ManagerComponent implements OnInit {
   ];
 
   ngOnInit(): void {
-    console.log(data);
+    // console.log(data);
     // console.log(data['Investment']);
   }
 
